@@ -41,10 +41,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = '';
-$db['default']['password'] = '';
-$db['default']['database'] = '';
+$db['default']['hostname'] = 'us-cdbr-azure-east-a.cloudapp.net';
+$db['default']['username'] = 'b512752d822656';
+$db['default']['password'] = '9c0538ee';
+$db['default']['database'] = 'clarkDB';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
